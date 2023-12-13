@@ -1,5 +1,5 @@
-<p align="center"><a href="https://www.instagram.com/nafalpha2/" target="_blank"><img src="img/naufal.png" height="400" alt="P1"></a>
-<a href="https://instagram.com/hastorsd_/" target="_blank"><img src="img/hasto.png" height="400" alt="P2"></a></p>
+<p align="center"><a href="https://www.instagram.com/nafalpha2/" target="_blank"><img src="img/naufal.png" height="200" alt="P1"></a>
+<a href="https://instagram.com/hastorsd_/" target="_blank"><img src="img/hasto.png" height="200" alt="P2"></a></p>
 
 <h1 align="center" style="font-family:verdana">Supra Bapak TT</h1>
 
